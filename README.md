@@ -16,8 +16,24 @@
 ---
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/block-foundation/docker-polkadot-interface/master/res/block_foundation-containers.jpg"width="100%" height="100%" alt="Form Follows Finance">
+    <img src="https://raw.githubusercontent.com/block-foundation/brand/master/image/repository_cover/block_foundation-form_follows_finance.jpg"width="100%" height="100%" alt="Block Foundation Containers">
 </p>
+
+## Introduction
+
+Greetings and welcome to the Polkadot Interface Docker Image Repository, a vital project under the Block Foundation's extensive portfolio. Here, you will find our open-source contributions to the blockchain ecosystem, particularly focusing on the Polkadot network.
+
+The Polkadot network, a multi-chain platform that allows diverse blockchains to interoperate seamlessly, is driving the future of web decentralization. To harness its potential and make it accessible to our community, we have developed a Docker image that contains an interface for interacting with the Polkadot network.
+
+This repository is the go-to location for this Docker image. It contains all the files and instructions you need to set up and run the Polkadot Interface effortlessly within a Docker container, thereby simplifying the intricacies of managing and operating blockchain interfaces.
+
+The Docker image provided herein is designed for reliability, efficiency, and ease of use. It contains an optimized environment that ensures you can interact with the Polkadot network without having to grapple with complex setups. The Dockerfile for the image and detailed setup instructions are also provided to guide you through the deployment process.
+
+Our aim with this Docker image is to empower architects, developers, and other members of our community with the tools they need to explore the exciting world of blockchain technology. By making the Polkadot network more accessible, we move closer to realizing our vision of transforming the architectural and real estate industries.
+
+We strongly encourage everyone to use this Docker image, provide feedback, and contribute to its continuous development. It is through your involvement and support that we can bring our shared vision to fruition.
+
+We extend our heartfelt thanks for your interest in the Block Foundation and your valuable contributions to our community. Together, let's build a future where technology empowers society in innovative and sustainable ways.
 
 ## Development
 
@@ -31,7 +47,7 @@ website: [www.blockfoundation.io](https://www.blockfoundation.io "Block Foundati
 
 ### Contributing
 
-We'd love for you to contribute and to make **`block.txt`** even better than it is today!
+We'd love for you to contribute and to make this project even better than it is today!
 Please refer to the [contribution guidelines](.github/CONTRIBUTING.md) for information.
 
 ## Legal
