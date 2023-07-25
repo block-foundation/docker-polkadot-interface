@@ -35,6 +35,10 @@ We strongly encourage everyone to use this Docker image, provide feedback, and c
 
 We extend our heartfelt thanks for your interest in the Block Foundation and your valuable contributions to our community. Together, let's build a future where technology empowers society in innovative and sustainable ways.
 
+## Resources
+
+- https://hub.docker.com/r/jacogr/polkadot-js-apps/
+
 ## Development
 
 ### Authors
